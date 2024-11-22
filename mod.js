@@ -4,7 +4,7 @@
     @match https://maxwell-wellman.itch.io/purge-demo/*
     @connect github.com
     @run-at document-start
-    @downloadURL lol.ru
+    @downloadURL https://raw.githubusercontent.com/MaxwellWellman/purge-mod-test/refs/heads/master/mod.js
     @grant GM_setValue
     @grant GM_deleteValue
     @grant GM_listValues
