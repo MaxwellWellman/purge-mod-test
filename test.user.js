@@ -22,10 +22,6 @@
 // @grant GM_getResourceText
 // @grant GM_getResourceURL
 // @grant GM_log
-// @grant GM_openInTab
-// @grant GM_setClipboard
-// @grant GM_info
-// @grant GM_getMetadata
 // @run-at document-start
 // @connect *
 // ==/UserScript==
