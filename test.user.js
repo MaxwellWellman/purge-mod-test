@@ -5,7 +5,6 @@
 // @author MaxwellWellman
 // @version 10.0
 // @encoding utf-8
-// @license https://creativecommons.org/licenses/by-sa/4.0/
 // @icon
 // @homepage https://github.com/MaxwellWellman/purge-mod-test
 // @updateURL https://raw.githubusercontent.com/MaxwellWellman/purge-mod-test/refs/heads/master/mod.js
