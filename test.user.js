@@ -9,6 +9,7 @@
 // @homepage https://github.com/MaxwellWellman/purge-mod-test
 // @updateURL https://raw.githubusercontent.com/MaxwellWellman/purge-mod-test/refs/heads/master/mod.js
 // @downloadURL https://raw.githubusercontent.com/MaxwellWellman/purge-mod-test/refs/heads/master/mod.js
+// @license GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // @include https://maxwell-wellman.itch.io/purge-demo
 // @grant unsafeWindow
 // @grant GM_addStyle
